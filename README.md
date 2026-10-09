@@ -4,5 +4,7 @@ Seven bilingual songs from Proverbs 14:1–16:23. A wise woman builds her house.
 
 Published
 GitHub: https://github.com/KJC-DNN/Album94_Every_Wise_Woman_Builds_Her_House/releases/tag/94.0.0
+
 Archive: https://archive.org/details/album-94-every-wise-woman-builds-her-house-main-cover.jpg
+
 Zenodo: https://doi.org/10.5281/zenodo.23261231
